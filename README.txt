@@ -30,3 +30,9 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+Development
+-----------
+To run HTML validation tests:
+
+1. Install dependencies: npm install
+2. Run the test: npm run test-html
